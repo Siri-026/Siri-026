@@ -1,56 +1,79 @@
-# Hi, I'm Siri Hegde!
+# Siri Hegde
 
-### Computer Science Engineering Student | AI/ML | Cybersecurity | Open Source
+Computer Science Engineering Student
 
-## 📊 GitHub Stats
+Interested in Artificial Intelligence, Cybersecurity, Data Analytics, and Software Development.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siri-026&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siri-026&layout=compact)
-
-I'm a Computer Science Engineering student passionate about building secure and intelligent software systems.
-
-My interests include:
-
-* Artificial Intelligence & Machine Learning
-* Cybersecurity
-* Software Development
-* Open Source
-* Agentic AI Systems
-
-Currently:
-
-* Learning Java, DSA, and System Design
-* Building AI-powered security solutions
-* Exploring vulnerability management and SBOM analysis
-* Preparing for Google Summer of Code (GSoC)
+Currently focused on building AI-powered systems, security tools, and practical software solutions while strengthening my skills in Data Structures & Algorithms, Java, and Open Source Development.
 
 ## Featured Projects
 
-### Enhancing Product Security using Gen AI
+### Chemical Equipment Analyzer
 
-An AI-powered vulnerability remediation assistant that analyzes SBOMs, enriches CVE data, and suggests security fixes using LLMs.
+An AI-powered system designed to analyze chemical equipment data, identify potential issues, and assist in equipment assessment through intelligent data processing and automation.
+
+### CVSS Reduction Assistant
+
+A security-focused AI assistant that analyzes SBOMs, enriches vulnerability information using CVE and OSV data, and generates remediation recommendations to reduce security risks.
+
+### Data Footprint Mapper
+
+A tool for mapping and visualizing data flow across systems, helping organizations understand how information is collected, processed, stored, and shared.
+
+### FinWise – Financial Assistant
+
+An intelligent financial assistant that helps users manage finances, track expenses, and gain insights through data-driven recommendations.
 
 ### Phishing Detection System
 
-Machine Learning-based phishing detection platform with backend analysis and frontend visualization.
-
-### Carbon Footprint Tracker
-
-ML-powered application developed during the Infosys Springboard Internship to estimate and monitor carbon emissions.
-
+A Machine Learning-based phishing detection platform that analyzes URLs and web indicators to identify potentially malicious websites.
 
 ## Tech Stack
 
-**Languages**
-Python • Java • C • JavaScript
+Languages:
 
-**Frameworks & Tools**
-Django • Flask • Git • GitHub • MySQL
+* Python
+* Java
+* C
+* JavaScript
+* HTML
+* CSS
 
-**Areas of Interest**
-AI/ML • Cybersecurity • Open Source • Full-Stack Development
+Frameworks and Tools:
 
-## Connect
+* Django
+* Flask
+* Git
+* GitHub
+* MySQL
+* SQLAlchemy
 
-LinkedIn: https://www.linkedin.com/in/siri-v-hegde-42ba3827b/
+Areas of Interest:
+
+* Artificial Intelligence
+* Machine Learning
+* Cybersecurity
+* Data Analytics
+* Full-Stack Development
+* Open Source
+
+## Current Focus
+
+* Data Structures and Algorithms using Java
+* Open Source Contributions
+* Artificial Intelligence and Agentic AI Systems
+* Cybersecurity Engineering
+* Software Development
+
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+
+## Contact
+
+LinkedIn: [Add LinkedIn Profile]
+
+Email: [Add Email Address]
+
