@@ -1,4 +1,4 @@
-# Hi, I'm Siri 👋
+# Hi, I'm Siri Hegde
 
 ### Computer Science Engineering Student | AI/ML | Cybersecurity | Open Source
 
@@ -14,22 +14,22 @@ My interests include:
 
 Currently:
 
-* 🌱 Learning Java, DSA, and System Design
-* 🤖 Building AI-powered security solutions
-* 🔐 Exploring vulnerability management and SBOM analysis
-* 🚀 Preparing for Google Summer of Code (GSoC)
+* Learning Java, DSA, and System Design
+* Building AI-powered security solutions
+* Exploring vulnerability management and SBOM analysis
+* Preparing for Google Summer of Code (GSoC)
 
 ## Featured Projects
 
-### 🔐 Enhancing Product Security using Gen AI
+### Enhancing Product Security using Gen AI
 
 An AI-powered vulnerability remediation assistant that analyzes SBOMs, enriches CVE data, and suggests security fixes using LLMs.
 
-### 🌐 Phishing Detection System
+### Phishing Detection System
 
 Machine Learning-based phishing detection platform with backend analysis and frontend visualization.
 
-### 🌱 Carbon Footprint Tracker
+### Carbon Footprint Tracker
 
 ML-powered application developed during the Infosys Springboard Internship to estimate and monitor carbon emissions.
 
@@ -47,4 +47,4 @@ AI/ML • Cybersecurity • Open Source • Full-Stack Development
 
 ## Connect
 
-LinkedIn: (https://www.linkedin.com/in/siri-v-hegde-42ba3827b/)
+LinkedIn: https://www.linkedin.com/in/siri-v-hegde-42ba3827b/
